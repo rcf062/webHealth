@@ -1,0 +1,90 @@
+/*======================== WEB HEALTH CSS =====================*/
+
+/*======================== BODY =====================*/
+.img-responsive{
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+/*======================== TEXTOS =====================*/
+.text{
+    position: absolute;
+    text-align:center;
+    top: 65%;
+    left: 35%;
+    font-size: 39px;
+    color: black;
+    font-family: 'Hammersmith One', sans-serif;
+    transform: translate(-50%, -50%);
+}
+.text2 {
+    text-align: center;
+    color:white;
+    font-family: 'Hammersmith One', sans-serif;
+	
+}
+.logo {
+	font-family: 'Hammersmith One', sans-serif;
+    font-size: 23px;
+    letter-spacing: 6px;
+}
+.data {
+	text-align: center;
+}
+
+.index-h2 {
+	text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+/*===========MENU=================*/
+
+.menu {
+	text-align: center;
+    float: left;
+    border-radius: 5px;
+}
+.a {
+	text-decoration: none;
+    text-decoration-color: black;
+}
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    align-content: center;
+	
+}
+.menu ul li {
+    float: left;
+    font-family:'Hammersmith One', sans-serif;
+    font-size: 22px;
+}
+.menu ul li a {
+    padding: 96px;
+    text-decoration: none;
+    font-family:'Hammersmith One', sans-serif;
+}
+.icon {
+	box-sizing: border-box;
+}
+/*=========== FORMULÁRIOS =================*/
+.form {
+	text-align: center;
+}
+
+.conteudo {
+	display: table;
+}
+.imagem {
+	display:table-cell;
+    float: right;
+    margin-top: 219px;
+    margin-left: 810px;
+	
+.text {
+	display: table-cell;
+    float: left;
+    width: -50px;
+}
